@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h2>💻 Tecnologias que utilizo e estou aprendendo: </h2>
+<h2>💻 Tecnologias que utilizo e/ou estou aprendendo: </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
