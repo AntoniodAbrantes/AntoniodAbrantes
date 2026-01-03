@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ant%C3%B4nio-abrantes-4102a9193/"><i>Antônio Abrantes</i></a> 😃️</h1>
-  <p align="center">Estudo Ciência da computação na<a href="https://www.unipe.edu.br/"><i> UNIPÊ</i></a> e gosto muito da área de dados, utilizo bibliotecas como PANDAS, NUMPY e MATPLOTLIB. Fascinado por tecnologia 👨‍💻
+  <p align="center">Formado em Ciência da computação na<a href="https://www.unipe.edu.br/"><i> UNIPÊ</i></a>
 </div>
 
 <h2>⚡ Status do meu git:</h2>
@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h2>💻 Tecnologias que utilizo e/ou estou aprendendo: </h2>
+<h2>💻 Tecnologias que utilizo: </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
